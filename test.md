@@ -2,7 +2,7 @@
 
 #### h4
 
-![这是百度官网](https://www.baidu.com/)
+[这是百度官网](https://www.baidu.com/)
 
 ![查看另一个文件点击这里](https://github.com/NormanWhc/wuhaucong2118/blob/main/README.md)
 
