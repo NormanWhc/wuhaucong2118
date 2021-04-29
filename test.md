@@ -6,7 +6,7 @@
 
 ![查看另一个文件点击这里](https://github.com/NormanWhc/wuhaucong2118/blob/main/README.md)
 
-![这是网页图片](https://img1.baidu.com/it/u=3669624608,2494558275&fm=26&fmt=auto&gp=0.jpg)
+[这是网页图片](https://img1.baidu.com/it/u=3669624608,2494558275&fm=26&fmt=auto&gp=0.jpg)
 
 ```C++
 cout<<"这是C++语句"<<endl;
